@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 JORDANS BRANCH second attempt
 
 trying to merge now
-=======
 JORDANS BRANCH 1s
 
 gregs edit
->>>>>>> gregs-branch
