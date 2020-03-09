@@ -3,9 +3,8 @@ Hi I'm Blair
 Second edit by Blair
 
 Edited by Sean
-<<<<<<< HEAD
 
 Edited by Greg
-=======
 Sean again
->>>>>>> a076820eea78856101d94787901cb1217e5fa291
+
+jordan edit
