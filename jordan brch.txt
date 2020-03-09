@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 JORDANS BRANCH second attempt
 
 trying to merge now
@@ -12,3 +13,8 @@ Blair wants to go for brunch
 
 Blair's merge
 >>>>>>> brunch
+=======
+JORDANS BRANCH 1s
+
+This is Sean's branch now
+>>>>>>> sean
