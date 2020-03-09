@@ -1,3 +1,7 @@
 Hi I'm Blair
 
+<<<<<<< HEAD
 Second edit by Blair
+=======
+Edited by Sean
+>>>>>>> 08b2016d5941b30d67b3ee89ba9a5699d42bd34b
